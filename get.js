@@ -1,0 +1,4 @@
+
+console.log(
+    navigator.getInstallRelatedApps()
+);

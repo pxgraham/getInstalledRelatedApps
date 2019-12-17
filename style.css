@@ -1,0 +1,18 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  
+  h1 { text-align: center; }
+  
+  p { clear: both; }
+  
+  .hidden {
+    display: none;
+  }
+  
+  #notSupported b:first-of-type,
+  #requireHTTPS b:first-of-type {
+    color: #b71c1c;
+  }
+  
+  
